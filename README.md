@@ -21,7 +21,6 @@ Plaintextsrc/
 │   └── SimulacionPanel.java   # Interfaz grafica (cuadricula, colisiones y renderizado)
 lib/
 └── jade.jar                   # Libreria de JADE (configurada en el Classpath)
-Configuracion y EjecucionClonar el repositorio:Bashgit clone https://github.com/tu-usuario/tu-repositorio.git
 Importar el proyecto en tu entorno de desarrollo (por ejemplo, Eclipse IDE).  
 Anadir JADE al Classpath: Asegurate de incluir jade.jar dentro del Classpath del proyecto (evitando el uso de module-info.java debido a incompatibilidades con Java 9+).
 Ejecutar la simulacion: Inicia la clase principal Main.java.
